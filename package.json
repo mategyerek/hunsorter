@@ -1,7 +1,7 @@
 {
-	"name": "hunsorter",
+	"name": "@mategyerek/hunsorter",
 	"version": "2.1.0",
-	"description": "Sorting text with the Hungarian spelling rules",
+	"description": "My fork of hunsorter",
 	"keywords": [
 		"hungarian",
 		"sort",
