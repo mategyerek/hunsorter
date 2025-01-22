@@ -21,10 +21,10 @@
 	"sideEffects": false,
 	"source": "src/main.ts",
 	"exports": {
-		"require": "./dist/main.cjs",
-		"default": "./dist/main.modern.js"
+		"require": "./dist/main.js",
+		"default": "./dist/main.js"
 	},
-	"main": "./dist/main.cjs",
+	"main": "./dist/main.js",
 	"module": "./dist/main.module.js",
 	"unpkg": "./dist/main.umd.js",
 	"types": "dist/main.d.ts",
